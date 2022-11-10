@@ -1,0 +1,1 @@
+x = " Frog playing guitar on a log."
